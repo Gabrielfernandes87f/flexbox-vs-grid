@@ -4,7 +4,7 @@
 - [Aula](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <p align="center">
-   <a src="" alt="Podcastr" width="150"/>
+   <img src="https://github.com/Gabrielfernandes87f/flexbox-vs-grid/blob/Main/display-grid.png" />
 </p>
 
 
